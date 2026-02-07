@@ -1,3 +1,10 @@
+## NO LONGER USED
+
+Please see https://github.com/wf1264/onikakushi-ru instead
+
+This repo may be deleted in the future.
+
+
 # Когда плачут Цикады Глава 1 - Onikakushi
 
 Русский перевод визуальной новеллы Higurashi no Naku Koro ni, Глава 1 - Onikakushi.  
